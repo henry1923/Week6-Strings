@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Titpe21\NumberGuesserStevenSuviste\NumberGuesserStevenSuviste\bin\Debug\netcoreapp3.1\NumberGuesserStevenSuviste.exe
+C:\Users\opilane\source\repos\Titpe21\NumberGuesserStevenSuviste\NumberGuesserStevenSuviste\bin\Debug\netcoreapp3.1\NumberGuesserStevenSuviste.deps.json
+C:\Users\opilane\source\repos\Titpe21\NumberGuesserStevenSuviste\NumberGuesserStevenSuviste\bin\Debug\netcoreapp3.1\NumberGuesserStevenSuviste.runtimeconfig.json
+C:\Users\opilane\source\repos\Titpe21\NumberGuesserStevenSuviste\NumberGuesserStevenSuviste\bin\Debug\netcoreapp3.1\NumberGuesserStevenSuviste.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Titpe21\NumberGuesserStevenSuviste\NumberGuesserStevenSuviste\bin\Debug\netcoreapp3.1\NumberGuesserStevenSuviste.dll
+C:\Users\opilane\source\repos\Titpe21\NumberGuesserStevenSuviste\NumberGuesserStevenSuviste\bin\Debug\netcoreapp3.1\NumberGuesserStevenSuviste.pdb
+C:\Users\opilane\source\repos\Titpe21\NumberGuesserStevenSuviste\NumberGuesserStevenSuviste\obj\Debug\netcoreapp3.1\NumberGuesserStevenSuviste.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Titpe21\NumberGuesserStevenSuviste\NumberGuesserStevenSuviste\obj\Debug\netcoreapp3.1\NumberGuesserStevenSuviste.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Titpe21\NumberGuesserStevenSuviste\NumberGuesserStevenSuviste\obj\Debug\netcoreapp3.1\NumberGuesserStevenSuviste.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Titpe21\NumberGuesserStevenSuviste\NumberGuesserStevenSuviste\obj\Debug\netcoreapp3.1\NumberGuesserStevenSuviste.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Titpe21\NumberGuesserStevenSuviste\NumberGuesserStevenSuviste\obj\Debug\netcoreapp3.1\NumberGuesserStevenSuviste.dll
+C:\Users\opilane\source\repos\Titpe21\NumberGuesserStevenSuviste\NumberGuesserStevenSuviste\obj\Debug\netcoreapp3.1\NumberGuesserStevenSuviste.pdb
+C:\Users\opilane\source\repos\Titpe21\NumberGuesserStevenSuviste\NumberGuesserStevenSuviste\obj\Debug\netcoreapp3.1\NumberGuesserStevenSuviste.genruntimeconfig.cache
